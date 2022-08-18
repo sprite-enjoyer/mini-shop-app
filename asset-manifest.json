@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/react-gh-pages/static/js/main.6c950356.js",
-    "static/media/man.png": "/react-gh-pages/static/media/man.10af3e20df5877350745.png",
-    "static/media/profileIcon.svg": "/react-gh-pages/static/media/profileIcon.c17a63e884f7639ed623393682b39e11.svg",
-    "static/media/cartIcon.svg": "/react-gh-pages/static/media/cartIcon.9421fad89c3354b75dcbcb83f5cfc64d.svg",
-    "static/media/heartIcon.svg": "/react-gh-pages/static/media/heartIcon.5d90abfbc63eed1b8728b0d638a6389d.svg",
-    "static/media/searchIcon.svg": "/react-gh-pages/static/media/searchIcon.818e920fe65722cbdc15dd9c6ec0c3a1.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.6c950356.js.map": "/react-gh-pages/static/js/main.6c950356.js.map"
+    "main.js": "/mini-shop-app/static/js/main.79242037.js",
+    "static/media/man.png": "/mini-shop-app/static/media/man.10af3e20df5877350745.png",
+    "static/media/profileIcon.svg": "/mini-shop-app/static/media/profileIcon.c17a63e884f7639ed623393682b39e11.svg",
+    "static/media/cartIcon.svg": "/mini-shop-app/static/media/cartIcon.9421fad89c3354b75dcbcb83f5cfc64d.svg",
+    "static/media/heartIcon.svg": "/mini-shop-app/static/media/heartIcon.5d90abfbc63eed1b8728b0d638a6389d.svg",
+    "static/media/searchIcon.svg": "/mini-shop-app/static/media/searchIcon.818e920fe65722cbdc15dd9c6ec0c3a1.svg",
+    "index.html": "/mini-shop-app/index.html",
+    "main.79242037.js.map": "/mini-shop-app/static/js/main.79242037.js.map"
   },
   "entrypoints": [
-    "static/js/main.6c950356.js"
+    "static/js/main.79242037.js"
   ]
 }
